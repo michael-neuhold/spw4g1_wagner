@@ -7,3 +7,4 @@ Bier
 Tortellini
 Wurst
 Käse
+Müsli
