@@ -1,6 +1,7 @@
 Brot
 Reis
-Obst
+Birnen
+Aepfel
 Klopapier
 Falschen mit Wasser
 Bier
